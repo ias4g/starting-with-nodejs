@@ -1,4 +1,7 @@
 # starting-with-nodejs
+
+# Example text {style=text-align:center}
+
 I understand NodeJS, how it works and taking the first steps with this fantastic technology.
 
 ![GitHub](https://img.shields.io/github/license/Ias4g/starting-with-nodejs)

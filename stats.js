@@ -1,6 +1,9 @@
 //Importado modulo 'os' com require()
 const os = require('os')
 
+//Importando modulo logger
+const log = require('./logger')
+
 //Função para pegar os dados em tempo real no intervalo de preferência.
 setInterval(() => {
 
@@ -27,4 +30,7 @@ setInterval(() => {
     console.clear()
     console.log(" ====== pc stats =====")
     console.table(stats)
+
+    log(`${JSON.stringify(stats)}\n`)
+
 }, 1000)

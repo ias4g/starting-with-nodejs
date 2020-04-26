@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/github/repo-size/Ias4g/starting-with-nodejs">
 </p>
 
-<p align="center">I understand NodeJS, how it works and taking the first steps with this fantastic technology.</p>
+<p align="center">I understand NodeJS, how it works and taking the first steps with this fantastic technology.<br>
+An application made in NodeJS to save your favorite URLs and LINKs.</p>
 
 <h3 align="center">Technologies used.</h3>
 <h5 align="center">HTML5 - CSS3 and JavaScript</h5>

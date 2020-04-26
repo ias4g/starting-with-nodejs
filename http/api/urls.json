@@ -1,16 +1,20 @@
 {
   "urls": [
     {
-      "name": "Izael git",
-      "url": "http://github.com/Ias4g"
+      "name": "Git",
+      "url": "https://github.com/Ias4g"
     },
     {
       "name": "Izael",
-      "url": "http://izaell.com.br"
+      "url": "https://izaell.com.br"
     },
     {
-      "name": "Izael-discord",
-      "url": "http://discord.com.br"
+      "name": "Discord",
+      "url": "https://discord.com.br"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com"
     }
   ]
 }

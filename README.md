@@ -10,7 +10,7 @@
 <p align="center">I understand NodeJS, how it works and taking the first steps with this fantastic technology.</p>
 
 <h3 align="center">Technologies used.</h3>
-<h5 align="center">JavaScript - Express - Nodemon - Nunjucks - Banco Postgres</h5>
+<h5 align="center">HTML5 - CSS3 and JavaScript</h5>
 
 <br>
 

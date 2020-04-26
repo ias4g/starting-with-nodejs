@@ -43,7 +43,11 @@ form.addEventListener("submit", (event) => {
     if(!url){
         return alert(`Coloque o texto exatamente como está no exemplo, respeitando os espaços e traços!! \n Exemplo: < url name - https://www.exemplo.com.br >`)
     }
-    if(!/^https/.test(url)){
+    // if(!/^https:/.test(url)){ 
+    //     return alert('Digite a URL da maneira correta!!')
+    // }
+
+    if(!/(^https:+[/]+[/])/.test(url)){ 
         return alert('Digite a URL da maneira correta!!')
     }
 
